@@ -126,4 +126,5 @@ Locally it will open at: [http://localhost:8501](http://localhost:8501)
 ---
 
 ## 🧑‍💻 Author  
-Built by **Mummidivarapu Sri Sai Nikshith** ✨  
+Built by **Attuluri Venkat Dhanush** ✨  
+
